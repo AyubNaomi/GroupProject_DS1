@@ -1,2 +1,2 @@
 # GroupProject_DS1
-Multiple analyses on COVID-19 data set.
+Performing multiple data science tasks on a COVID-19 dataset.
